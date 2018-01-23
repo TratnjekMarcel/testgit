@@ -1,0 +1,12 @@
+Predpogoj:
+Uporabnik je prijavljen
+
+Koraki:
+Uporabnik pritisne gumb za odjavo iz sistema
+Uporabnik se avtomacko odjavi iz sistema.
+
+Pričakovan rezultat:
+Uporabniku se pred odjavo prikaže obvestilo o potrditvi odjave.
+
+Dejanski rezultat:
+Uporabnik se avtomatsko odjavi
